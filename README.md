@@ -4,7 +4,7 @@ This repository contains my first Ruby on Rails web application, created as part
 
 ## Project Overview
 
-This project serves as a foundational introduction to building applications with Ruby on Rails. The main objective is to familiarize yourself with Rails conventions, scaffolding, and basic CRUD (Create, Read, Update, Delete) operations.
+This project serves as a foundational introduction to building applications with Ruby on Rails.
 
 ### Ruby Version
 
